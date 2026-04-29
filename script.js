@@ -71,3 +71,15 @@ zoneButtons.forEach((button) => {
 window.addEventListener("scroll", requestScrollUpdate, { passive: true });
 window.addEventListener("resize", requestScrollUpdate);
 updateScrollEffects();
+
+// Secure contact email handling
+const contactTrigger = document.getElementById("contact-trigger");
+if (contactTrigger) {
+  contactTrigger.addEventListener("click", (e) => {
+    e.preventDefault();
+    const u = "dun4ev44";
+    const d = "gmail.com";
+    window.location.href = `mailto:${u}@${d}`;
+  });
+}
+

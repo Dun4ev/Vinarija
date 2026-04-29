@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dun4ev.github.io/Vinarija/sitemap.xml
