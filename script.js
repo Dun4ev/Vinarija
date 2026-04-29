@@ -7,10 +7,10 @@ const zoneText = document.querySelector(".zone-text");
 const zoneButtons = [...document.querySelectorAll(".hotspot-button")];
 
 const zoneCopy = {
-  court: "Центральный двор с водой собирает маршруты и создает спокойную паузу перед дегустацией.",
-  roof: "Зеленые кровли работают как продолжение склона, теплоизоляция и видовая прогулочная поверхность.",
-  cellar: "Нижний уровень отдан ферментации, выдержке и хранению, чтобы производственный цикл был логичным и стабильным.",
-  view: "Панорамные залы и террасы связывают вкус вина с долиной, виноградниками и вечерним светом.",
+  court: "The central water court gathers routes and creates a calm pause before tasting.",
+  roof: "Green roofs act as an extension of the slope, thermal insulation and a walkable viewing surface.",
+  cellar: "The lower level is dedicated to fermentation, aging and storage, keeping the production cycle logical and stable.",
+  view: "Panoramic halls and terraces connect the taste of wine with the valley, vineyards and evening light.",
 };
 
 let ticking = false;

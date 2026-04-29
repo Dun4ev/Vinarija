@@ -489,7 +489,7 @@ a {
   inset: 0;
   background:
     linear-gradient(90deg, rgba(23, 17, 15, 0.9), rgba(23, 17, 15, 0.28)),
-    url("Gemini_Generated_Image_v2omvxv2omvxv2om.png") center / cover;
+    url("assets/images/vinarija-technical-storyboard.png") center / cover;
   transform: translate3d(0, var(--production-y, 0px), 0) scale(1.08);
   opacity: 0.72;
   will-change: transform;

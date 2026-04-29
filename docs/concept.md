@@ -1,117 +1,116 @@
-# Vinarija: описание концепта
+# Vinarija: Concept Description
 
-## Суть
+## Essence
 
-Vinarija - концепт современной винодельни, встроенной в ландшафт виноградников. Проект объединяет производство вина, дегустационный опыт, прогулочный маршрут и устойчивую архитектуру. Главная идея - не поставить здание на фоне природы, а сделать его частью холма, виноградника и видового пейзажа.
+Vinarija is a concept for a contemporary winery embedded into vineyard terrain. The project combines wine production, tasting, visitor journey and sustainable architecture. Its core idea is not to place a building against nature, but to shape the building as part of the hill, the vineyard and the panoramic landscape.
 
-Комплекс выглядит как мягкая террасированная структура с зелеными кровлями, изогнутыми линиями, натуральными материалами и открытыми стеклянными фасадами. Архитектура подчеркивает связь с землей, виноградной лозой, водой, солнцем и процессом виноделия.
+The complex reads as a soft terraced structure with green roofs, curved lines, natural materials and open glass facades. The architecture emphasizes its connection to earth, vine, water, sunlight and the winemaking process.
 
-## Источники
+## Sources
 
-- `Gemini_Generated_Image_h305knh305knh305.png` - атмосферный общий вид комплекса в ландшафте.
-- `Gemini_Generated_Image_v2omvxv2omvxv2om.png` - технический концепт-лист: генплан, разрезы, планы, фасады и сценарий посетителя.
+- `assets/images/vinarija-hero-panorama.png` - atmospheric overview of the complex in the landscape.
+- `assets/images/vinarija-technical-storyboard.png` - technical concept board with site plan, sections, floor plans, elevations and visitor storyboard.
 
-## Архитектурная идея
+## Architectural Idea
 
-Здание формируется как продолжение рельефа. Зеленые кровли визуально продолжают холмы и виноградники, а плавные контуры повторяют линии террас, дорожек и рядов лозы. Комплекс не доминирует над местом, а раскрывается постепенно: с дороги, через входную зону, внутренний двор и видовые пространства.
+The building is formed as an extension of the terrain. Green roofs visually continue the hills and vineyards, while flowing contours echo the lines of terraces, paths and vine rows. The complex does not dominate the site; it reveals itself gradually through arrival, entry, central court and panoramic spaces.
 
-Основные архитектурные приемы:
+Main architectural strategies:
 
-- интеграция здания в склон;
-- зеленые эксплуатируемые кровли;
-- плавная органическая геометрия;
-- стеклянные фасады для связи интерьера с виноградниками;
-- деревянные и каменные поверхности как отсылка к ремесленности и земле;
-- открытые террасы и прогулочные настилы;
-- центральный двор с водой как спокойное ядро комплекса.
+- integration into the slope;
+- planted green roofs;
+- smooth organic geometry;
+- glass facades connecting interiors with vineyards;
+- wood and stone surfaces referencing craft and earth;
+- open terraces and walking decks;
+- a central water court as the calm heart of the complex.
 
-## Функциональная структура
+## Functional Structure
 
-Комплекс разделен на несколько логических зон.
+The complex is organized into several clear zones.
 
-### Производство
+### Production
 
-Нижний уровень отведен под технологические процессы виноделия. На техническом листе читаются зоны fermentation и barrel aging: ферментация, выдержка в бочках, хранение, производственные помещения и технологические емкости. Производственный блок частично заглублен, что помогает использовать стабильную температуру земли и отделить рабочие процессы от гостевого маршрута.
+The lower level is dedicated to the technological processes of winemaking. The concept board indicates fermentation and barrel aging zones, with storage, production rooms and technical tanks. This production block is partially embedded into the ground, supporting a stable microclimate and separating working processes from the guest route.
 
-### Гостевая зона
+### Guest Areas
 
-Верхний и видовой уровни ориентированы на посетителей. Здесь размещаются дегустационные пространства, зал с панорамным видом, террасы, зоны отдыха и вероятно ресторанная или камерная событийная функция. Пространства раскрыты к виноградникам и долине, поэтому дегустация воспринимается не как отдельная услуга, а как часть ландшафтного сценария.
+Upper and panoramic levels are oriented toward visitors. They include tasting spaces, a hall with valley views, terraces, lounge areas and potential restaurant or event functions. Tasting is not treated as a separate service, but as part of a larger landscape experience.
 
-### Центральный двор
+### Central Court
 
-Внутренний двор с водным элементом работает как эмоциональный центр проекта. Он собирает маршруты, смягчает масштаб комплекса и создает паузу между входом, дегустацией и производственной частью. Вода добавляет прохладу, отражение и ощущение спокойствия.
+The internal court with water acts as the emotional center of the project. It gathers routes, softens the scale of the complex and creates a pause between arrival, tasting and production.
 
-### Ландшафт и виноградники
+### Landscape and Vineyards
 
-Виноградники не являются фоном, а становятся частью архитектуры. Ряды лозы подведены близко к зданию, дорожки проходят между посадками, а посетители видят работу на винограднике. Это усиливает идею прозрачного цикла: земля - лоза - производство - выдержка - дегустация.
+The vineyards are not background scenery; they are part of the architecture. Vine rows approach the building, paths move through planting, and visitors can observe the vineyard work. This reinforces the transparent cycle: earth, vine, production, aging and tasting.
 
-## Сценарий посетителя
+## Visitor Journey
 
-Концепт предполагает последовательный маршрут:
+The concept suggests a sequential visitor route:
 
-1. Прибытие к комплексу через подъездную дорогу и входную зону у каменной стены.
-2. Вход по плавной дорожке или мосту, который постепенно открывает внутренний двор.
-3. Знакомство с архитектурой, ландшафтом и винодельческим процессом.
-4. Погружение в производство: вид на емкости, бочки, зоны ферментации и выдержки.
-5. Дегустация в панорамном пространстве с видом на виноградники и долину.
-6. Прогулка по террасам, кровлям, настилам и маршрутам среди лоз.
+1. Arrival through the vineyard valley and entrance zone near the stone wall.
+2. Entry along a curved path or bridge-like geometry toward the central court.
+3. Introduction to the architecture, landscape and winemaking process.
+4. Immersion into production: tanks, barrels, fermentation and aging.
+5. Tasting in a panoramic space overlooking vineyards and valley.
+6. Reflection through terraces, roofs, decks and paths among the vines.
 
-Такой сценарий делает винодельню не только производственным объектом, но и местом впечатления: гость проходит путь от ландшафта к технологии и обратно к ландшафту через вкус вина.
+This journey turns the winery from a production object into an experience: the guest moves from landscape to technology and back to landscape through the taste of wine.
 
-## Образ и атмосфера
+## Atmosphere
 
-Общий образ - спокойная премиальная винодельня с экологическим характером. Атмосфера строится на сочетании природной мягкости и современной технологичности.
+The overall image is a calm, premium winery with an ecological character. The atmosphere is built on the balance of natural softness and contemporary precision.
 
-Ключевые ощущения:
+Key impressions:
 
-- тишина и простор виноградной долины;
-- теплый вечерний свет;
-- натуральность дерева, камня и зелени;
-- открытость и прозрачность процессов;
-- медленный маршрут вместо резкой демонстрации;
-- сочетание ремесла, гастрономии и архитектурного опыта.
+- quiet openness of a vineyard valley;
+- warm evening light;
+- natural wood, stone and planting;
+- transparency of the process;
+- slow discovery rather than immediate display;
+- a combination of craft, gastronomy and architectural experience.
 
-## Устойчивость
+## Sustainability
 
-На изображениях видны солнечные панели, зеленые кровли и заглубление здания в рельеф. Эти элементы формируют устойчивую стратегию проекта.
+The images show solar panels, green roofs and partial embedding into terrain. These elements form a sustainable strategy for the project.
 
-Возможные экологические решения:
+Possible environmental solutions:
 
-- солнечная генерация для части энергопотребления;
-- зеленые кровли для теплоизоляции, задержки воды и визуальной интеграции;
-- использование инерции грунта для стабильного микроклимата производственных помещений;
-- сбор дождевой воды для полива ландшафта;
-- местные материалы: камень, дерево, гравий, посадки, характерные для региона;
-- пешеходные маршруты, минимизирующие конфликт гостевого и технологического движения.
+- solar generation for part of the energy demand;
+- green roofs for insulation, water retention and visual integration;
+- use of soil thermal mass for stable production-space microclimate;
+- rainwater collection for landscape irrigation;
+- local materials such as stone, wood, gravel and regional planting;
+- separated guest and technical flows.
 
-## Планировочная логика
+## Planning Logic
 
-Генплан построен вокруг изогнутого центрального ядра. Подъезд и парковка вынесены к периферии, а главные гостевые пространства развернуты к виноградникам. Производственная часть расположена ниже и глубже, что позволяет отделить техническую логистику от посетительского пути.
+The site plan is organized around a curved central core. Arrival and parking are placed toward the edge, while main guest spaces open toward vineyards. Production is located lower and deeper, allowing technical logistics to remain separate from the visitor route.
 
-Кровли работают как пятая фасадная плоскость: они видны сверху, с подъездов и с окружающего рельефа, поэтому оформлены как продолжение ландшафта, а не как техническая поверхность.
+The roofs operate as a fifth facade. Because they are visible from above, from arrival routes and from the surrounding terrain, they are treated as landscape rather than as technical surfaces.
 
-## Позиционирование
+## Positioning
 
-Vinarija может быть представлена как:
+Vinarija can be presented as:
 
-- винодельня полного цикла;
-- энотуристический центр;
-- дегустационная площадка с панорамными видами;
-- архитектурная достопримечательность региона;
-- место для камерных событий, гастрономических ужинов и образовательных маршрутов;
-- пример устойчивой сельской архитектуры, интегрированной в виноградный ландшафт.
+- a full-cycle winery;
+- a wine tourism destination;
+- a tasting venue with panoramic views;
+- an architectural landmark for the region;
+- a place for intimate events, gastronomic dinners and educational routes;
+- an example of sustainable rural architecture integrated into vineyard terrain.
 
-## Ключевая формула концепта
+## Core Formula
 
-Vinarija - это винодельня, где производство не спрятано, а превращено в часть гостевого опыта; где здание не конкурирует с пейзажем, а продолжает его; где дегустация становится финальной точкой маршрута через землю, архитектуру, технологию и вид.
+Vinarija is a winery where production is not hidden, but becomes part of the visitor experience; where the building does not compete with the landscape, but extends it; where tasting becomes the final point of a journey through earth, architecture, technology and view.
 
-## Что стоит уточнить для развития проекта
+## Topics to Clarify
 
-- реальный участок, рельеф, ориентация и подъезд;
-- климатические условия и требования к производству;
-- планируемый объем выпуска вина;
-- вместимость дегустационных залов и событийных зон;
-- разделение потоков гостей, персонала, сырья и готовой продукции;
-- требования к инженерии, пожарной безопасности и санитарным зонам;
-- брендовая история: регион, сорт винограда, характер вина, целевая аудитория.
-
+- real site, terrain, orientation and access;
+- climate conditions and production requirements;
+- planned wine production volume;
+- capacity of tasting and event spaces;
+- separation of guests, staff, raw material and finished-product flows;
+- engineering, fire-safety and sanitary requirements;
+- brand story: region, grape varieties, wine character and target audience.
