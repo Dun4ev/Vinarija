@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
    <url>
       <loc>https://dun4ev.github.io/Vinarija/</loc>
       <lastmod>2026-04-29</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
+      <image:image>
+         <image:loc>https://dun4ev.github.io/Vinarija/assets/images/vinarija-hero-panorama.png</image:loc>
+         <image:title>Vinarija — Landscape-Integrated Winery Concept Panorama</image:title>
+         <image:caption>A modern winery architectural concept integrated into the Serbian landscape.</image:caption>
+      </image:image>
+      <image:image>
+         <image:loc>https://dun4ev.github.io/Vinarija/assets/images/vinarija-technical-storyboard.png</image:loc>
+         <image:title>Vinarija Technical Storyboard</image:title>
+         <image:caption>Site plan, sections and visitor journey storyboard for the winery project.</image:caption>
+      </image:image>
    </url>
 </urlset>
