@@ -2,144 +2,58 @@
 
 ## Facebook
 
-Architects no longer have to wait weeks to see their ideas "come to life." My experiment with Vinarija showed that the journey from a blank page to a finished concept site now takes just one evening.
+I no longer wait weeks to see an architectural idea come to life. Yesterday I imagined the Vinarija winery concept and turned a blank page into a live presentation site in a single evening.
 
-I've completed an architectural experiment: I came up with a concept for the Vinarija winery and brought it to a full visual presentation in record time using AI.
+This process used to consume massive amounts of time. You had to pull references, run test renders, and design the layout. This time I used generative AI. I formulated the idea, found a visual direction, and generated concept images. I added a hero video, built a landing page, and pushed the project to GitHub Pages.
 
-In a short time, I managed to go through almost the entire journey from an idea to a published concept:
+Speed is the core of this experiment. The draft phase used to take days. Now it takes hours.
 
-- formulated the architectural idea;
-- chose a visual direction;
-- generated concept images;
-- created a video for the hero block;
-- built a landing page;
-- uploaded the project to GitHub Pages for further indexing.
+AI did not replace my taste or architectural thinking. It acted as an accelerator. I can test ideas instantly. I build a visual language and show people an interactive project instead of sending a folder full of JPEGs.
 
-The most interesting thing here is not just the result itself, but the speed of the process. What used to take days or weeks at the level of primary submission is now compressed into a few hours.
+Vinarija proved the gap between "I have an idea" and "Here is the link, let's discuss" is gone.
 
-For architects, this is not a replacement for thinking and taste, but a new accelerator: you can test ideas faster, build a visual language, make first presentations, and show a concept in a live form, not just as a set of pictures.
-
-Vinarija has become a small example for me of how the path from "I have an idea" to "this can already be opened, viewed, and discussed" is changing.
-
-What do you think: will this speed enhance architectural quality or make it more superficial?
+Will this speed elevate architectural quality, or will it make concepts superficial?
 
 ## LinkedIn
 
-The cycle from idea to a presentable digital prototype has shrunk from weeks to hours. I conducted a small experiment at the intersection of architectural storytelling, generative AI, and web presentation.
+I ran an experiment blending architectural storytelling, AI, and web development. The cycle to build a digital prototype dropped from weeks to hours.
 
-I took the fresh Vinarija winery concept and turned it into a live digital presentation, using a suite of neural networks for both visuals and code.
+I took my Vinarija winery concept—a building integrated into a vineyard landscape—and turned it into a live presentation. I used neural networks for both the visuals and the code.
 
-What went into the process:
+In one evening I established the architectural direction, generated a series of concept images, and created a cover video. I built a single-page landing site and published it via GitHub Pages.
 
-- development of the general concept: a winery integrated into the vineyard landscape;
-- choice of architectural and visual direction;
-- generation of conceptual images;
-- creation of a video for the first screen;
-- assembly of a one-page landing site;
-- publication via GitHub Pages;
-- preparation of the project for further indexing.
+This approach changes early-stage work for architects and developers. We used to spend days pulling references and drafting layouts. Now I can test the atmosphere, build a visual language, and shape a cohesive narrative in a few hours.
 
-Main conclusion: the cycle from idea to a presentable digital prototype is significantly shortening. For architects, designers, and developers, this changes the early stage of working with a concept.
+AI does not design the building for me. It amplifies the abstraction phase. I turn raw ideas into discussion material faster than ever. Vinarija shows AI handles the reference grind. The architect keeps the actual design work.
 
-Now you can, in hours:
-
-- check the project's atmosphere;
-- build a visual language;
-- form a narrative;
-- make a primary presentation for discussion;
-- quickly get feedback.
-
-Important: AI does not replace architectural thinking. It strengthens the early stages, where you need to quickly explore a direction, gather an image, and turn an abstract idea into material for conversation.
-
-Vinarija is more than just images; it’s an example of how AI acts as an "accelerator" of meaning, stripping away routine and leaving the architect with pure creativity.
-
-Colleagues, how are you using AI in your practice? Is it already part of your workflow, or are you still observing?
+Are you using generative tools in your workflow, or are you still watching from the sidelines?
 
 ## Medium
 
-# From Idea to Concept Site in a Few Hours: How AI is Changing Early Architectural Presentation
+# From Idea to Concept Site in Hours: AI and Early Architectural Presentation
 
-Can an architect build a full concept site in a single evening? It used to be "no," but today, it’s reality.
+I ran an experiment. I took the abstract idea of the Vinarija winery and published an immersive landing page in a few hours. I wanted to test a workflow where AI handles the visuals and structure while I focus on the architecture.
 
-Recently, I conducted an experiment: I went from the initial idea for the Vinarija winery to a published immersive landing page in just a few hours. This is a test of a new workflow where AI handles visualization and structure, allowing the human to focus on the core architectural idea.
+Vinarija is a winery built into the landscape. The building does not sit in front of nature. It becomes a natural extension of the hill, the vineyards, and the visitor route. Wine production, tasting, walking, view terraces, and sustainable systems merge into a single scenario. I needed to turn this starting thought into a dense visual.
 
-## The Idea
+Neural networks helped me on multiple levels. I refined the architectural concept and presentation logic. I chose a visual language and generated dozens of concept images. I prepared a hero video, outlined the text structure, and designed the site as a digital pitch. I pushed the final project to GitHub Pages.
 
-Vinarija is a concept for a winery built into the vineyard landscape.
+I did not end up with a folder of images. I built a digital prototype. It includes a hero section, an explanation of the architectural principles, a detailed visitor journey, and dedicated blocks for production and ecological potential.
 
-The core thought: the building does not stand against the background of nature but becomes a continuation of the hill, the vineyard, and the visitor's path. Wine production, tasting, walking, viewing terraces, and sustainable architectural solutions come together in one scenario.
+Early concept pitches always demanded time. Architects dug for references, built draft renders, wrote copy, and laid out heavy PDF albums. Today that entire phase shrinks.
 
-This was the starting point. Next, it was necessary to quickly turn it into an image.
+A strong idea still requires developed taste, curation, and spatial awareness. But the speed of materialization changed. I can test a project's mood across multiple directions in a couple of hours. I can build an initial narrative, show the pitch to a client, and get feedback the same day. I know immediately if the concept is worth developing further.
 
-## What was Done with AI
+AI does not make a project ready for construction. Neural networks do not analyze the site, check building codes, calculate structural loads, or plan MEP systems. Production technology and economics remain entirely human tasks.
 
-During the process, AI helped at several levels:
+But neural networks excel when you need to turn an abstract thought into an image you can discuss. A new value emerges. Generative AI does not replace the architect. It acts as a massive accelerator for early design.
 
-- formulating the architectural concept;
-- refining the presentation structure;
-- choosing a visual language;
-- generating conceptual images;
-- preparing a video for the first screen;
-- gathering the landing page's textual logic;
-- designing the site as an immersive presentation;
-- preparing the project for publication on GitHub Pages.
+Building the concept as a website formed a crucial part of my experiment. The project stops being a dead file on a hard drive. It becomes a link you can share, open on a phone, and index in search engines. A site presents architecture as an experience. It has rhythm, motion, navigation, and a deliberate viewing sequence.
 
-The result was not just a set of pictures, but a small digital prototype: with a hero section, video, architectural principles, visitor journey, blocks about production, sustainability, and development potential.
+The distance between an idea and a finished presentation is collapsing. We can test hypotheses faster. We can compare more options and kill weak directions early. We push strong solutions to a presentable form in record time.
 
-## Why This Might Be Interesting for Architects
+Vinarija became the perfect example of this new cycle. Thought to visual language. Images to video. Landing page to publication. All in one evening.
 
-Previously, early concept presentation often required a lot of time: gathering references, making first visuals, layout for a presentation, preparing text, assembling a PDF or website.
+The question is no longer whether we can generate pretty pictures. The question is how we use this new speed. Do we produce endless meaningless variations, or do we think faster, choose better, and tell stronger architectural stories?
 
-Now this path is starting to shrink.
-
-Not to zero, of course. A good idea still requires taste, selection, critical thinking, and an understanding of architecture. But the speed of an idea's materialization itself is changing radically.
-
-An architect can faster:
-
-- check the project's mood;
-- see several directions;
-- gather a primary narrative;
-- show the idea to a client or team;
-- get early feedback;
-- understand if it's worth developing the concept further.
-
-## Important Limitation
-
-AI does not make a project ready for construction.
-
-It does not replace:
-
-- real site analysis;
-- regulatory checks;
-- structural solutions;
-- engineering systems;
-- project economics;
-- work with operation and production technology.
-
-But it is already very useful at the stage where you need to quickly turn an abstract thought into a discussed image.
-
-This is where a new value appears: not "AI instead of an architect," but "AI as an accelerator of early conceptual thinking."
-
-## From Concept to Published Site
-
-After forming the visual and textual material, the concept was assembled into a one-page site and published via GitHub Pages.
-
-This is an important part of the experiment. The concept ceases to be just a file on a computer. It becomes an accessible link that can be sent, indexed, shown in a portfolio, or used as a basis for further development.
-
-This format is especially useful for architectural ideas because a website allows you to present a project not linearly, like a PDF, but as an experience: with movement, video, sections, rhythm, and a viewing scenario.
-
-## Main Conclusion
-
-The trend is obvious: the path from idea to a presentable concept is compressed to hours.
-
-For architects, this could be a major change in working with early stages. More ideas can be tested faster. More options can be compared. Weak directions can be weeded out earlier. Strong ones can be brought to a form that can be discussed faster.
-
-Vinarija has become a small example of this new cycle for me:
-
-idea -> visual language -> images -> video -> landing page -> publication.
-
-And this whole path can already be traveled very quickly.
-
-The question now is not just whether we know how to create beautiful pictures with AI. The question is how to use this speed meaningfully: to think faster, choose more accurately, and tell architectural ideas better.
-
-If you are interested in learning more about the implementation details or how exactly this process was structured — reach out, I'll be happy to share my experience.
+If you want to know more about the technical details of this process, reach out.
